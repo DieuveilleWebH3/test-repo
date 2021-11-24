@@ -1,2 +1,2 @@
 # test-repo
-I am making a test repository, with several branch  
+I am making a test repository, with several branches  
